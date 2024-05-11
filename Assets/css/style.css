@@ -5,7 +5,7 @@
 }
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: teal;
+    background-color: black;
 }
 img {
     width: 120px;
@@ -15,8 +15,8 @@ img {
     margin: auto;
 }
 header {
-    background: black;
-    color: yellow;
+    background: pink;
+    color: maroon;
     padding: 20px 0;
     border-radius: 45px;
 }
@@ -41,12 +41,12 @@ nav ul li {
     margin-right: 20px;
 }
 nav ul li a {
-    color: white;
+    color: blue;
     text-decoration: none;
     font-size: 20px;
 }
 #about {
-    background-color: lavender;
+    background-color: papayawhip;
     font-size: 1.7rem;
     line-height: 1.5;
     padding: 25px;
@@ -62,7 +62,7 @@ nav ul li a {
     border-radius: 45px;
 }
 #contact {
-    background-color: lightcyan;
+    background-color: peachpuff;
     padding: 25px;
     margin: 3%;
     line-height: 2;
@@ -188,8 +188,8 @@ nav ul li a {
     transform: scale(1.1);
 }
 footer {
-    background: black;
-    color: yellow;
+    background: pink;
+    color: maroon;
     padding: 20px 0;
     border-radius: 45px;
 }
